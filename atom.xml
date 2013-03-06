@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://firstar.github.com/yuanchen/atom.xml" rel="self"/>
+  <link href="http://firstar.github.com/yuanchen/"/>
+  <updated>2013-03-06T14:29:58+08:00</updated>
+  <id>http://firstar.github.com/yuanchen/</id>
+  <author>
+    <name><![CDATA[Yuanchen Xie]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
