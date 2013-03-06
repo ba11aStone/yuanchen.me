@@ -4,7 +4,7 @@
   <title><![CDATA[the Mount for Yuanchen]]></title>
   <link href="http://firstar.github.com/yuanchen/atom.xml" rel="self"/>
   <link href="http://firstar.github.com/yuanchen/"/>
-  <updated>2013-03-06T15:33:21+08:00</updated>
+  <updated>2013-03-06T15:56:26+08:00</updated>
   <id>http://firstar.github.com/yuanchen/</id>
   <author>
     <name><![CDATA[Yuanchen Xie]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[come2octopress]]></title>
+    <link href="http://firstar.github.com/yuanchen/blog/2013/03/06/come2octopress/"/>
+    <updated>2013-03-06T15:39:00+08:00</updated>
+    <id>http://firstar.github.com/yuanchen/blog/2013/03/06/come2octopress</id>
+    <content type="html"><![CDATA[<h2>迁移到Octopress</h2>
+
+<blockquote><p>到夏天使用<em>WordPress</em>就两年了，去年打算换域名，但是数据库更改很麻烦。再加上越来越感觉技术的提高对不起虚拟空间的年费。就打算找一个好的解决方案。</p>
+
+<p>最近对<em>MarkDown</em>比较感兴趣，又发现了<em>Pandoc</em>这等神器可处理多种文档，于是<em>github</em>+<em>jekyll</em>的方案应运而生了。这样就可以在本地编辑内容，<em>Octopress</em>协助处理，再由<em>git</em>管理数据。</p>
+
+<p>第一篇文章名为：<strong>Hello,world!</strong>既是测试，也是惯例。</p>
+
+<p>接下来将逐步把以前的文章从原来的山头迁移过来，重新编辑为<em>.md</em>文档便于存档和以后的查看、使用。估计时间会很长。原有的标签、分组可能也将模糊或忽略，毕竟内容才是最重要的。</p>
+
+<p>即日立贴，大名为证：谢元辰
+Yuanchen Xie</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
